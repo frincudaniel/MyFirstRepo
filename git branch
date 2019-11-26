@@ -1,0 +1,29 @@
+[33mcommit b23f140a24defa07e53274d2c365a175d8d2d556[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/marius[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniel Frincu <danielfrincu92@gmail.com>
+Date:   Tue Nov 26 18:45:45 2019 +0200
+
+    Added a new method
+
+[33mcommit 16526eb7f3a7d83496861ae4e2a5992fe56528f1[m
+Author: Daniel Frincu <danielfrincu92@gmail.com>
+Date:   Tue Nov 26 18:29:18 2019 +0200
+
+    Added Main class . Added a new method.
+
+[33mcommit ebf33773d742d1e31bbc5bd2474b8182d1c45040[m
+Author: Daniel Frincu <danielfrincu92@gmail.com>
+Date:   Tue Nov 26 18:23:06 2019 +0200
+
+    added new file on brach dev
+
+[33mcommit 4ab6abd74174e17a590abe15dc0804930629ace6[m
+Author: Daniel Frincu <danielfrincu92@gmail.com>
+Date:   Tue Nov 26 18:16:48 2019 +0200
+
+    Added pom.xml.Added gitignore
+
+[33mcommit 200a24d7be64ac5e458c707474a347241b838803[m
+Author: Daniel Frincu <danielfrincu92@gmail.com>
+Date:   Tue Nov 26 18:04:06 2019 +0200
+
+    Initial commit

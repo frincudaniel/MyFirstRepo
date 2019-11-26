@@ -7,7 +7,9 @@ public class Main {
         System.out.println("Drink Chocochino");
     }
 
-public static void doMeditatiiCuEduard(){
-    System.out.println("Eduard");
+
 }
-}
+
+
+
+
